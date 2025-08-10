@@ -1,0 +1,53 @@
+commit e5f9768bcced902887e12c9eddd1d18b158b8b22
+Author: Rajatesh Paul <rajateshpaul@gmail.com>
+Date:   Sun Aug 10 23:22:24 2025 +0530
+
+    Ignore backup files
+
+ .gitignore | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 585c694ab2a4fc54e76ed0fa0ed8be7bab132136
+Author: Rajatesh Paul <rajateshpaul@gmail.com>
+Date:   Sun Aug 10 23:21:47 2025 +0530
+
+    Add hello.xml in master branch
+
+ hello.xml | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit f4bf468653432ff592e411141c9144bacfe9b3ea
+Author: Rajatesh Paul <rajateshpaul@gmail.com>
+Date:   Sun Aug 10 23:21:39 2025 +0530
+
+    Update hello.xml in GitWork branch
+
+ hello.xml | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit f8bd2e0af9e63623e8e8414edf6f640c5beca418
+Author: Rajatesh Paul <rajateshpaul@gmail.com>
+Date:   Sun Aug 10 23:21:31 2025 +0530
+
+    Add hello.xml in GitWork branch
+
+ hello.xml | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit e28d31fd5162e5ad3e0899f2924c0d049dc8dd82
+Author: Rajatesh Paul <rajateshpaul@gmail.com>
+Date:   Sun Aug 10 23:16:09 2025 +0530
+
+    Add branch_file.txt in GitNewBranch
+
+ branch_file.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 3af806d0e4ae1b972846b76e100bffe2dc18b12a
+Author: Your Name <you@example.com>
+Date:   Sun Aug 10 22:59:03 2025 +0530
+
+    Add welcome.txt
+
+ welcome.txt | 1 +
+ 1 file changed, 1 insertion(+)

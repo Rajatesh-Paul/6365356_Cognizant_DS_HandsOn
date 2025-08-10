@@ -1,0 +1,10 @@
+On branch GitWork
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	log/
+	proof_git_config.txt
+	proof_git_log.txt
+	proof_git_status.txt
+	test.log
+
+nothing added to commit but untracked files present (use "git add" to track)

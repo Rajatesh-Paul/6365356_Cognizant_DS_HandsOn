@@ -1,0 +1,7 @@
+user.name=Rajatesh Paul
+user.email=rajateshpaul@gmail.com
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+core.editor="C:\Program Files\Notepad++\notepad++.exe" -multiInst -nosession
